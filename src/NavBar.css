@@ -1,0 +1,9 @@
+.product{
+    text-decoration:underline;
+}
+.nav{
+    padding: 5px;
+    margin: 10px;
+    border: 10px;
+    flex-direction: column;
+}
